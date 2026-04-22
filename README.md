@@ -41,6 +41,16 @@
       <p><picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt=""/></picture> <picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt=""/></picture> <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt=""/></picture> <picture><img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white" alt=""/></picture> <picture><img src="https://img.shields.io/badge/Responsive-333?style=flat-square" alt=""/></picture></p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img width="441" height="1" alt="">
+      <br/>
+      <b>my-ai-api</b>
+      <p>Ollama(Gemma 4)를 래핑하는 AI API 서버</p>
+      <p><picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt=""/></picture> <picture><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt=""/></picture> <picture><img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt=""/></picture> <picture><img src="https://img.shields.io/badge/httpx-333333?style=flat-square" alt=""/></picture></p>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <br/>
